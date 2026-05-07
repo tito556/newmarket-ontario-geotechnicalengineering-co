@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Newmarket Ontario
+
+> Geotechnical engineering services in Newmarket Ontario, Canada.
+
+## Services
+- [Anchors](https://newmarket-ontario.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://newmarket-ontario.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://newmarket-ontario.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://newmarket-ontario.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://newmarket-ontario.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://newmarket-ontario.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://newmarket-ontario.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://newmarket-ontario.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://newmarket-ontario.geotechnicalengineering.co/footings/)
+- [Foundations](https://newmarket-ontario.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://newmarket-ontario.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://newmarket-ontario.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://newmarket-ontario.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://newmarket-ontario.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://newmarket-ontario.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://newmarket-ontario.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://newmarket-ontario.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://newmarket-ontario.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://newmarket-ontario.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://newmarket-ontario.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://newmarket-ontario.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://newmarket-ontario.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://newmarket-ontario.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://newmarket-ontario.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://newmarket-ontario.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://newmarket-ontario.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://newmarket-ontario.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://newmarket-ontario.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://newmarket-ontario.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://newmarket-ontario.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://newmarket-ontario.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://newmarket-ontario.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://newmarket-ontario.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://newmarket-ontario.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://newmarket-ontario.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://newmarket-ontario.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://newmarket-ontario.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://newmarket-ontario.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://newmarket-ontario.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://newmarket-ontario.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Newmarket Ontario, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
